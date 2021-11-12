@@ -1,0 +1,17 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.idea
+*.DS_STORE
+
+*Enunciado.pdf
+*sprites/
+*canciones/
+*frontend/__pycache__/
+*backend/__pycache__/
