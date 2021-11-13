@@ -11,7 +11,5 @@ __pycache__/
 *.DS_STORE
 
 *Enunciado.pdf
-*sprites/
-*canciones/
 *frontend/__pycache__/
 *backend/__pycache__/
